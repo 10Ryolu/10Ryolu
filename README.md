@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @10Ryolu
-- 👀 I’m interested in programming (python, js) and sports
-- 🌱 I’m currently learning css and js
+- 👀 I’m interested in programming (python, c++) and sports
+- 🌱 I’m currently learning js and css
 - 😄 Pronouns: He / Him
 
 <!---
