@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @10Ryolu
-- 👀 I’m interested in programming (python, c++) and sports
-- 🌱 I’m currently learning js and css
-- 😄 Pronouns: He / Him
-
-<!---
-10Ryolu/10Ryolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi i'm Marc. 
+I'm a 16 year old boy from germany, who's interested in coding in economy. Right now im in a boarding school, but my goal is to studie business informatics at a big univerity. I'm also interested in sports. My favourite sport is football but I also like going to the gym.
